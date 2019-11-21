@@ -37,7 +37,7 @@
     <checkstyle.header.extensions>java</checkstyle.header.extensions>
     <!-- Internal dependencies -->
     <version.org.kie.kogito>8.0.0-SNAPSHOT</version.org.kie.kogito>
-    <version.org.drools>${version.org.kie.kogito}</version.org.drools>
+    <!-- <version.org.drools>${version.org.kie.kogito}</version.org.drools> -->
     <version.org.optaplanner>${version.org.kie.kogito}</version.org.optaplanner>
     <version.org.jbpm>${version.org.kie.kogito}</version.org.jbpm>
     <version.org.drools.droolsjbpm-integration>${version.org.kie.kogito}</version.org.drools.droolsjbpm-integration>
